@@ -2,7 +2,7 @@ Privacy Policy
 
 Introduction
 
-Ora Technologies built the Kharcha Diary app as a free application. This SERVICE is provided by Ora Technologies at no cost and is intended for use as is.
+Ora Technologies built theKharcha Diary app as a free application. This SERVICE is provided by Ora Technologies at no cost and is intended for use as is.
 Your privacy is important to us. This Privacy Policy explains how Kharcha Diary handles user information. By using our Service, you agree to this policy.
 
 Information Collection and Use
@@ -41,6 +41,14 @@ You can restore your data by selecting a previously created backup file from you
 Backup files are stored only on your device and are never uploaded to any server or shared with any third party.
 You are fully responsible for managing and securing your backup files.
 
+
+Storage Access
+Kharcha Diary requests access to device storage for the following purposes only:
+
+To save exported Excel (.xlsx) files to your device's Downloads folder.
+To save database backup (.db) files to your device's local storage.
+To read backup files from your device storage for the restore feature.
+We do not access, read, or modify any other files on your device outside of these specific operations.
 
 Third-Party Services
 Kharcha Diary does not use any third-party services that collect, process, or store user data.
